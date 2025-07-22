@@ -3,10 +3,6 @@
 # https://github.com/ollama/ollama/blob/main/docs/api.md
 
 import os
-# 環境変数HTTP_PROXYをunsetする
-os.environ.pop("HTTP_PROXY", None)
-os.environ.pop("http_proxy", None)
-
 import requests
 import subprocess
 import json
@@ -102,15 +98,13 @@ def delete_ollama_model(host, model):
 
 
 if __name__ == "__main__":
-    host = "172.18.20.41"
-    host = "localhost"
-    host = "mini2024.local"
-    model = "llama3.2:latest"
+    host = os.getenv('OLLAMA_RHOST', 'localhost')
+    model_name = "llama3.2:3b"
 
-    status = pull_ollama_model(host, model)
+    status = pull_ollama_model(host, model_name)
     print(f"status: {status}")
 
-    status = delete_ollama_model(host, model)
+    status = delete_ollama_model(host, model_name)
     print(f"status: {status}")
 
 
