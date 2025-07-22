@@ -1,0 +1,317 @@
+[
+    {
+	"comment": "https://atmarkit.itmedia.co.jp/ait/articles/2506/03/news005.html",
+	"alias": "DeepCoder_14B",
+	"model": "okamototk/deepcoder:14b",
+	"active": "Yes"
+    },
+    {
+	"comment": "https://atmarkit.itmedia.co.jp/ait/articles/2506/03/news005.html",
+	"alias": "Gemma3-tools_12B",
+	"model": "okamototk/gemma3-tools:12b",
+	"active": "Yes"
+    },
+    {
+	"alias": "StarCode2_3b",
+	"model": "starcoder2:3b-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Llama4_Scout_17B",
+	"model": "hf.co/glogwa68/Llama-4-scout-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "ダウンロードできず",
+	"alias": "Llama4_Scout_17B",
+	"model": "hf.co/bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Llama3.2-vision_11B",
+	"model": "llama3.2-vision:11b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Llama3.1_8B",
+	"model": "llama3.1:8b",
+	"active": "Yes"
+    },
+    {
+	"alias": "Llama3.2_3B",
+	"model": "llama3.2:3b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Llama3.2_1B",
+	"model": "llama3.2:1b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "株式会社ELYZA",
+	"alias": "ELYZA-Llama3-JP_8B",
+	"model": "hf.co/elyza/Llama-3-ELYZA-JP-8B-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_F32_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:F32",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_F16_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:BF16",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_Q8_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:Q8_0",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_Q6_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:Q6_K",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_Q4_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_Q2_4B",
+	"model": "hf.co/unsloth/gemma-3-4b-it-GGUF:Q2_K",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_27B",
+	"model": "gemma3:27b-it-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_12B",
+	"model": "gemma3:12b-it-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_4B",
+	"model": "gemma3:4b-it-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3_1B",
+	"model": "gemma3:1b",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma3n_4B",
+	"model": "gemma3n:e4b",
+	"active": "Yes"
+    },
+    {
+	"alias": "Gemma2_27B",
+	"model": "gemma2:27b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma2_9B",
+	"model": "gemma2:9b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Gemma2_2B",
+	"model": "gemma2:2b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "Google製",
+	"alias": "Gemma2-JP_2B",
+	"model": "schroneko/gemma-2-2b-jpn-it:q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "Rinna",
+	"alias": "Gemma2-baku_2B",
+	"model": "hf.co/alfredplpl/gemma-2-baku-2b-it-gguf:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Mistral-Nemo_12B",
+	"model": "hf.co/MaziyarPanahi/Mistral-Nemo-Instruct-2407-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "llm-jp-3_3.7B",
+	"model": "hf.co/alfredplpl/llm-jp-3-3.7b-instruct-gguf:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "aya-expanse_8B",
+	"model": "aya-expanse:8b",
+	"active": "No"
+    },
+    {
+	"alias": "Phi3.5_3.8B",
+	"model": "phi3.5:3.8b-mini-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "phi3_3.8B",
+	"model": "phi3:latest",
+	"active": "No"
+    },
+    {
+	"comment": "SB Intuitions （ソフトバンクの子会社）",
+	"alias": "Sarashina2-vision-14B",
+	"model": "hf.co/sbintuitions/sarashina2-vision-14b   No GGUF",
+	"active": "No"
+    },
+    {
+	"comment": "SB Intuitions （ソフトバンクの子会社）",
+	"alias": "Sarashina2_13B",
+	"model": "hf.co/urkz/sarashina2-13b-Q4_K_M-GGUF:Q4_K_M ダメダメ",
+	"active": "No"
+    },
+    {
+	"comment": "SB Intuitions （ソフトバンクの子会社）",
+	"alias": "Sarashina2_13B",
+	"model": "hf.co/RichardErkhov/sbintuitions_-_sarashina2-13b-gguf:Q4_K_M ダメダメ",
+	"active": "No"
+    },
+    {
+	"comment": "SB Intuitions （ソフトバンクの子会社）",
+	"alias": "Sarashina2.2_3B",
+	"model": "hf.co/mmnga/sarashina2.2-3b-instruct-v0.1-gguf:Q4_K_M",
+	"active": "yes"
+    },
+    {
+	"comment": "株式会社サイバーエージェント",
+	"alias": "DeepSeek-R1-Distill-Qwen-Japanese_14B",
+	"model": "hf.co/mmnga/cyberagent-DeepSeek-R1-Distill-Qwen-14B-Japanese-gguf:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "株式会社Lightblue",
+	"alias": "DeepSeek-R1-Distill-Qwen-7B-Japanese_7B",
+	"model": "hf.co/mmnga/lightblue-DeepSeek-R1-Distill-Qwen-7B-Japanese-gguf:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "DeepSeek-R1-Distill-Qwen_14B",
+	"model": "deepseek-r1:14b-qwen-distill-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "DeepSeek-R1-Distill-Llama_8B",
+	"model": "deepseek-r1:8b-llama-distill-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "DeepSeek-R1-Distill-Qwen_7B",
+	"model": "deepseek-r1:7b-qwen-distill-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Granite3_8B",
+	"model": "granite3-dense:8b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Granite3_2B",
+	"model": "granite3-dense:2b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Mistral_7B",
+	"model": "mistral:7b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5-VL_32B",
+	"model": "hf.co/samgreen/Qwen2.5-VL-32B-Instruct-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"comment": "físico Rencontre Rencontre Rencontre Rencontre Rencontre と回答。ダメダメ",
+	"alias": "Qwen2.5-VL_7B",
+	"model": "hf.co/samgreen/Qwen2.5-VL-7B-Instruct-GGUF:Q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen3_14B",
+	"model": "qwen3:14b-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen3_8B",
+	"model": "qwen3:8b-q4_k_m",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen3_4B",
+	"model": "qwen3:4b-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen3_1.7B",
+	"model": "qwen3:1.7b-q4_K_M",
+ 	"active": "No"
+    },
+    {
+	"alias": "Qwen3_0.6B",
+	"model": "qwen3:0.6b-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5-coder_32B",
+	"model": "qwen2.5-coder:32b-base-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_32B",
+	"model": "qwen2.5:32b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_14B",
+	"model": "qwen2.5:14b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_7B",
+	"model": "qwen2.5:7b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_F16_7B",
+	"model": "qwen2.5:7b-instruct-fp16",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_Q8_7B",
+	"model": "qwen2.5:7b-instruct-q8_0",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_Q6_7B",
+	"model": "qwen2.5:7b-instruct-q6_K",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_Q4_7B",
+	"model": "qwen2.5:7b-instruct-q4_K_M",
+	"active": "No"
+    },
+    {
+	"alias": "Qwen2.5_Q2_7B",
+	"model": "qwen2.5:7b-instruct-q2_K",
+	"active": "No"
+    },
+    {
+	"comment": "512トークン",
+	"alias": "intfloat-multilingual-e5-large-instruct",
+	"model": "jeffh/intfloat-multilingual-e5-large-instruct:f16",
+	"active": "Yes"
+    }
+]
+
